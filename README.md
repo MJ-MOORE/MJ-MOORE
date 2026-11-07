@@ -47,5 +47,5 @@ I focus on network defense, packet analysis, database architecture, and operatio
 ### ⚡ Off the Terminal
 
 - 🏋️‍♂️ Compound weightlifting sessions and evening conditioning runs
-- ⚔️ Shonen manga & anime power-scaling (*Bleach*, *Jujutsu Kaisen*, *One Piece*, *Black Clover*, *Naruto*) and AI-driven vertical combat video editing
+- ⚔️ Shonen manga & anime power-scaling (*Bleach*, *Jujutsu Kaisen*, *One Piece*, *Black Clover*, *Naruto*) 
 - 🎮 Competitive *Call of Duty: Mobile* Clan Wars (RAM-7 & DL Q33 main)
