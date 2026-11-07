@@ -2,7 +2,7 @@
 
 **Cybersecurity Undergraduate | ISC2 Student Member | Network & Infrastructure Security**
 
-I focus on network defense, packet analysis, database architecture, and operational resilience. Currently pursuing my degree in Cybersecurity at **Accra Technical University (ATU)** while building hands-on labs in virtualized Linux environments and exploring DevSecOps workflows.
+I focus on network defense, packet analysis, database architecture, and operational resilience. Currently pursuing my degree in Cybersecurity at **Accra Technical University (ATU)** while building hands-on labs in virtualized Linux environments.
 
 ---
 
