@@ -8,7 +8,7 @@ I focus on network defense, packet analysis, database architecture, and operatio
 
 ### 🛡️ Current Focus & Experience
 
-- 🎓 **Academic Track:** Level 200 Cybersecurity Student at **Accra Technical University**
+- 🎓 **Academic Track:** Level 300 Cybersecurity Student at **Accra Technical University**
 - 📜 **Certifications & Training:** **ISC2** Student Member | **One Million Coders Program** (Cybersecurity & AI/Cloud Tracks)
 - ⚓ **Industry Experience:** Completed industrial attachment across maritime IT and terminal systems at **Ghana Ports and Harbours Authority (GPHA)** & **Safebond Car Terminal**, analyzing gate operations, Terminal Departure Report (TDR) workflows, and manual failover continuity during network outages
 - 🔬 **Home Lab:** Running **Kali Linux (2025.3)** on VMware Workstation for vulnerability assessment, network simulation, and traffic inspection
